@@ -1,6 +1,6 @@
 # dotfiles
 
-> **Last maintained**: 2026-07-28 12:09
+> **Last maintained**: 2026-07-30 12:00
 
 Personal dotfiles managed by [chezmoi](https://chezmoi.io). Contains shell (fish), git, and system configurations.
 
